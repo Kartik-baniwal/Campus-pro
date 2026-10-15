@@ -20,7 +20,7 @@ export default function FeeDashboard() {
   });
 
   const [recentTransactions] = useState([
-    { id: 'PAY-4091', student: 'Liam Vance', roll: 'STU-1001', amount: 1250, method: 'Credit Card', date: 'Today, 02:15 PM', status: 'Completed' },
+    { id: 'PAY-4091', student: 'kartik', roll: 'STU-1001', amount: 1250, method: 'Credit Card', date: 'Today, 02:15 PM', status: 'Completed' },
     { id: 'PAY-4090', student: 'Sophia Martinez', roll: 'STU-1002', amount: 1250, method: 'Direct Debit', date: 'Today, 11:30 AM', status: 'Completed' },
     { id: 'PAY-4089', student: 'Ethan Taylor', roll: 'STU-1003', amount: 625, method: 'Cheque / Draft', date: 'Yesterday', status: 'Cleared' },
     { id: 'PAY-4088', student: 'Emma Watson', roll: 'STU-1006', amount: 1400, method: 'Bank Transfer', date: 'Yesterday', status: 'Completed' },
